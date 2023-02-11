@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN, Flutter, Data Science**
 
-- 👨‍💻 All of my projects are available at [www.devindra-portfolio.com](www.devindra-portfolio.com)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://devindrahirabatti.netlify.app/)
 
 - 📫 How to reach me **devindrahirabatti26@gmail.com**
 
