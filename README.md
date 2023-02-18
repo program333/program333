@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **MERN Ecommerce website**
 
-- 🌱 I’m currently learning **MERN, Flutter, Data Science**
+- 🌱 I’m currently learning **MERN, Flutter, Data Science **
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://devindrahirabatti.netlify.app/)
 
