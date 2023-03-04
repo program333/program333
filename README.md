@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Devindra Hirabatti </h1> <p align="right"> <a href="https://devindrahirabatti.netlify.app/" target="_blank"><img                  src="https://github.com/program333/My_Portfolio/blob/main/src/images/logo.jpeg?raw=true" width=80px height=100px/> </a></p> 
+<h1 align="center">Hi 👋, I'm Devindra Hirabatti </h1> <p align="right"> <a href="https://devindrahirabatti.netlify.app/" target="_blank"><img                  src="https://github.com/program333/My_Portfolio/blob/main/src/images/logo.jpeg?raw=true" width=50px height=60px/> </a></p> 
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <img align="right" width="400" alt="Coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
