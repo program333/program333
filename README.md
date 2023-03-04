@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Devindra Hirabatti</h1>  <a align="right" href="https://devindrahirabatti.netlify.app/">PortFolio</a>
+<h1 align="center">Hi 👋, I'm Devindra Hirabatti</h1>  <a right=0 href="https://devindrahirabatti.netlify.app/">PortFolio</a>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <img align="right" width="400" alt="Coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
