@@ -27,5 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=program333&show_icons=true&locale=en" alt="program333" /></p>
 
-<p><img align="center" src="https://github-readme-streak-git-masterrstaa-rickstaa.vercel.app/?user=program333&" alt="program333" /></p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=program333)](https://git.io/streak-stats)
+<p><img align="center" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=program333)](https://git.io/streak-stats)" alt="program333" /></p>
+
