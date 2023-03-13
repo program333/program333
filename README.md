@@ -28,4 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=program333&show_icons=true&locale=en" alt="program333" /></p>
 
 
-<p>[![GitHub Streak](https://streak-stats.demolab.com/?user=program333&)](https://git.io/streak-stats) </p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=program333&)](https://git.io/streak-stats) 
