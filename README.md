@@ -29,3 +29,4 @@
 
 <p><img align="center" src="https://streak-stats.demolab.com/?user=program333(https://git.io/streak-stats)" alt="program333" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=program333&)](https://git.io/streak-stats)
