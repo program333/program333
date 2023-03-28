@@ -5,9 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=program333&label=Profile%20views&color=0e75b6&style=flat" alt="program333" /> </p>
 
-- 🔭 I’m currently working on **MERN Ecommerce website**
-
-- 🌱 I’m currently learning **MERN, Flutter, Data Science**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://devindrahirabatti.netlify.app/)
 
