@@ -7,12 +7,11 @@
 
 
 
-
 - 👨‍💻 All of my projects are available at [My Portfolio](https://devindrahirabatti.netlify.app/)
 
 - 📫 How to reach me **devindrahirabatti26@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/@d_hirabatti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@d_hirabatti" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/devindra-hirabatti-4b4b3520a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/devindra-hirabatti-4b4b3520a" height="30" width="40" /></a>
